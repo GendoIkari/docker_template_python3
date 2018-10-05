@@ -1,0 +1,7 @@
+scripts/build.sh
+scripts/command_line.sh
+scripts/start.sh
+
+__pycache__/
+*.py[cod]
+*$py.class
